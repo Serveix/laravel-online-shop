@@ -12,7 +12,7 @@ Built in Laravel 5.4.3 and using OpenPay, I created this in summer vacation when
 
 You just have to clone the repo, run composer and npm, create a new .ENV file duplicating .ENV.EXAMPLE file, run Laravel migrations and you're good to go. 
 
-Install omposer dependencies
+Install composer dependencies
 ```
 composer install
 composer update
