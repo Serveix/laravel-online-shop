@@ -1,0 +1,32 @@
+- Pagina de soporte sencilla (con info de contacto y un formulario para enviar email)
+
+- ENviar correos cuando ordenen 
+
+- Subir a dev.karloservices.com
+
+- Tramitar PRODUCCION en openPay
+
+- Falta poner tiempos de envio abajo del precio
+- Falta poner para agregar el servicio de paqueteria y numero de rastreo.
+- Mejorar busqueda de productos
+
+- Subir a sitio oficial
+
+- Tramitar nuevo Adsense, cargar en google adwords la pagina, publicitar en fb. 
+
+!!! Llenar inventario
+
+
+
+[Podria ser despues de abrir] Sistema de repartidores
+[Podria ser despues de abrir] Housekeeping: store stats
+[Algun dia] Tramitar sello de confianza (AMIPCI Mexico IT trustWeb)
+
+======================================================================================
+[LISTO 030817] Cargar mas metodos de pago
+[LISTO 030817] Creacion y display de ordenes - 50% falta que aparezcan en el HK
+[LISTO 030817] Agregar anti-spam como CAPTCHA 
+[LISTO 050817] PAGAR HOSTING
+[LISTO 060817] Housekeeping: pedidos
+[LISTO 060817] Terminos y condiciones, Aviso de privacidad y Politicas de Garantia terminados
+[LISTO 060817] Pagina de ubicacion terminada, pagina de inicio terminada, 

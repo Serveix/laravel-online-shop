@@ -1,0 +1,32 @@
+/********************COLOR LETRAS************************/
+
+h1 {
+  color: black; 
+  font-family: "Roboto", "Arial";
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+}
+
+h2 {
+  color: black;
+  font-family: "Roboto", "Arial";
+}
+
+h3 {
+  color: white; 
+  font-family: "Roboto", "Arial";
+  margin: 15px 0;
+  font-size: 1.75em;
+  font-weight: normal;
+  line-height: 0.8em;
+  text-align: center;
+}
+
+a{
+  color: #FF4000;
+  font-family: "Roboto", "Arial";
+  text-align:center; 
+}
+

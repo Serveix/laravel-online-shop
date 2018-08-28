@@ -1,0 +1,6 @@
+[13-Jun-2017 22:31:47 UTC] PHP Fatal error:  Cannot redeclare App\ProductCategory::$fillable in /home/ubuntu/workspace/VeixStore/app/ProductCategory.php on line 12
+[29-Jun-2017 09:20:39 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/VeixStore/storage/framework/views/77615751b263d549235ddf5192e6e792defb227f.php on line 65
+[29-Jun-2017 09:22:21 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/VeixStore/storage/framework/views/77615751b263d549235ddf5192e6e792defb227f.php on line 65
+[20-Jul-2017 10:07:36 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/ubuntu/workspace/Karlo/storage/framework/views/a4153bd60cbf4c613100ea27908ef123b9ab63fc.php on line 27
+[25-Jul-2017 13:57:16 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ubuntu/workspace/Karlo/storage/framework/views/6aef35eef7e9498d7923fb31b9e862c1930f9c19.php on line 356
+[25-Jul-2017 18:15:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/ubuntu/workspace/Karlo/vendor/composer/ClassLoader.php on line 440
