@@ -38,7 +38,7 @@ php artisan migrate
 
 ## Built With
 
-* [Laravel 5.4.30](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Laravel 5.4.30](https://laravel.com/docs/5.4) - The web framework used
 
 ## Authors
 
