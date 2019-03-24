@@ -20,16 +20,21 @@ composer update
 
 Install npm dependencies
 ```
+cd public
 npm install
 ```
 
-Install npm dependencies
-```
-npm install
-```
 
 Then, duplicate .env.example file and rename it as .env 
 Open it and configure it.
+```
+cp .env.example .env
+```
+
+Generate application key
+```
+php artisan key:generate
+```
 
 Finlly, run 
 ```
