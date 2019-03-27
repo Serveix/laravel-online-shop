@@ -1,6 +1,6 @@
-# My Laravel Online Shop
+# Laravel Online Shop
 
-Built in Laravel 5.4.3 and using OpenPay, I created this in summer vacation when I was just starting to get better at understanding and using Laravel. This still needs a lot of improvement. There is hard coded parts and missing PHP Doc annotations. I will keep improving it, though.
+Built in Laravel 5.5.42 and using OpenPay, I created this in summer vacation when I was just starting to get better at understanding and using Laravel. This still needs a lot of improvement. There is hard coded parts and missing PHP Doc annotations. I will keep improving it, though.
 
 ### Prerequisites
 - PHP 5.6+
